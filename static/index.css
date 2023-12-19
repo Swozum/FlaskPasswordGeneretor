@@ -1,0 +1,38 @@
+body{
+    background-color:#00274C;
+    color:#FFCB05;
+    text-align: center;
+}
+#yu{
+    background-color: #00274C;
+    color: #FFCB05;
+    border-radius: 2px;
+    text-align: center;
+    position: center;
+}
+#direito{
+    display: inline-block;
+    border: 1px solid #FFCB05;
+    padding: 1rem 1rem;
+    vertical-align: left;
+}
+#esquerdo{
+    display: inline-block;
+    border: 1px solid #FFCB05;
+    padding: 1rem 1rem;
+    vertical-align: right;
+}
+#senhasGeradas{
+    background-color: #00274C;
+    color: #FFCB05;
+    overflow: scroll;
+    border: 1px solid #00274C;
+}
+#senha{
+    color:#00274C;
+    background-color: #FFCB05;
+    overflow: visible;
+    word-wrap: break-word;
+    border: 1px solid #00274C;
+
+}
