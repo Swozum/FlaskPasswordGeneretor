@@ -1,5 +1,5 @@
 # Use a imagem base do Python mais leve (Alpine)
-FROM python:3.12-alpine
+FROM python:3.10-alpine
 
 # Instalar o virtualenv
 RUN pip install --no-cache-dir virtualenv
